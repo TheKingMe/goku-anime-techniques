@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Personal captured room background
+background.jpg
+
+# Output video recordings
+*.mp4
+*.avi
+*.mkv
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
